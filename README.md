@@ -1,5 +1,11 @@
 # dds-thumbnailer
-A small script to automatically create thumbnails for DDS (DirectDraw Surface) files.
+A small script to automatically create thumbnails for DDS (DirectDraw Surface) files on Linux.
 
 # Installation
-You can install it manually with the .tar.gz file or simply use, if you have a Debian-based distribution, the .deb file.
+**Manual installation**
+
+Download [dds-thumbnailer.tar.gz](https://github.com/Wolferos/dds-thumbnailer/raw/master/dds-thumbnailer.tar.gz) if you want to manually install dds-thumbnailer
+
+**Debian-based distribution Package**
+
+Donwload [dds-thumbnailer.deb](https://github.com/Wolferos/dds-thumbnailer/raw/master/dds-thumbnailer.deb) (all architectures)
